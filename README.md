@@ -11,7 +11,7 @@ Student Name: Stephen M. Fernandez
 Course & Year: BSIT-2
 
 
-Database Used:SQL LITE
+Database Used: SQL LITE
 
 
 Features:
